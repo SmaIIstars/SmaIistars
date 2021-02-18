@@ -7,7 +7,7 @@
 **Message board**
 
 
-[![](https://chat.getloli.com/room/@SmaIIstars.github/svg?width=600&height=100&limit=20&theme=light&fontSize=16)](https://chat.getloli.com/room/@SmaIIstars.github)
+[![](https://chat.getloli.com/room/@SmaIIstars.github/svg?width=600&height=100&limit=20&theme=light&fontSize=14)](https://chat.getloli.com/room/@SmaIIstars.github)
 
 
 <!-- waka-box start -->
