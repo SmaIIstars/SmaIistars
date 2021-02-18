@@ -10,7 +10,7 @@
 [![](https://chat.getloli.com/room/@SmaIIstars.github/svg?width=600&height=100&limit=20&theme=light&fontSize=14)](https://chat.getloli.com/room/@SmaIIstars.github)
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmaIIstars&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmaIIstars&theme=dark&layout=compact)
 
 <!-- waka-box start -->
 <!-- waka-box end -->
