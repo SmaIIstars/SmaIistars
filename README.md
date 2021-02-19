@@ -13,4 +13,9 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmaIIstars&theme=dark&layout=compact)
 
 <!-- waka-box start -->
+#### <a href="https://gist.github.com/7bedf98e5eb1c9dafa176cc06c2428a5" target="_blank">📊 每周工作报告</a>
+```text
+Still Gathering Statistics...
+```
+<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
