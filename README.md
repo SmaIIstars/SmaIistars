@@ -15,7 +15,9 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/7bedf98e5eb1c9dafa176cc06c2428a5" target="_blank">📊 每周工作报告</a>
 ```text
-Still Gathering Statistics...
+JavaScript 🕓 5h15m ████████████████████▎░░░░░░░ 72.5%
+Python     🕓 1h59m ███████▋░░░░░░░░░░░░░░░░░░░░ 27.5%
+Git Config 🕓 0s    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.0%
 ```
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
